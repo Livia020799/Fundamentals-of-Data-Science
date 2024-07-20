@@ -4,27 +4,14 @@ This repository hosts the final project (***`Cesario_Ciciani_Di_Giammarco_Fazio_
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Exam Structure**
-
-The exam in Fundamentals of Data Science consisted of two assignments and a final project.<br> 
-This repository details the final project component of the course.
+The Fundamentals of Data Science exam comprised two assignments, a final project, and a written exam that covered both theoretical concepts and laboratory questions.<br>
+This repository contains the details of the final project component of the course.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Project Overview**
-
-Directly from the course moodle page here you can see the project guidelines:
-
-![image](https://github.com/Livia020799/Statistical-Learning/assets/146645775/a49ae30a-8da9-4276-9f8b-36015f521df4)
-
-Our group opted for a ***Data-over-Method*** type of project, where the primary objective was to employ statistical learning techniques to determine the key characteristics that render a Pokémon competitively viable.<br> 
-We constructed a dataset from the latest competitive Pokémon format (VGC24) and applied various predictive models: <br>
-- `Support Vector Machine.R`
-- `Random Forest.R`
-- `K-Prototypes.R`
-- `Neural Network.ipynb`<br>
-
-This approach is designed to provide valuable insights that assist both novice and professional players in building effective competitive teams. Additionally, the project involved the creation of competitive Pokémon teams for each model tested (`results.csv`), using an algorithm named Pesca Pokémon, detailed in ***Chapter 4*** of the project documentation.<br>
-These teams were subsequently tested on the [Pokémon Showdown](https://pokemonshowdown.com/) website to practically evaluate each team's performance in real-world competitive scenarios.
+For our final project, we were tasked with modeling a prediction problem of our choice using any methods we learned in class. My group chose to focus on predicting stroke risk, aiming to determine whether an individual is likely to have a stroke based on clinical data from patients. We sourced the dataset from Kaggle and decided to use `Python` for our analysis.<br>
+You can find more details about the project, including how we divided the work, in the PDF uploaded to this GitHub repository. The *`.ipybn`* file contains the project's code.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,7 +20,6 @@ These teams were subsequently tested on the [Pokémon Showdown](https://pokemons
 **This project (plus the assignments) received a perfect score of 30 cum laude out of 30 on the final exam.** Feel free to use it as a reference if you are planning to take the exam in the upcoming years.<br> 
 Please do not hesitate to contact me if you need further explanations or encounter any issues with the materials.
 
-![image](https://github.com/Livia020799/Statistical-Learning/assets/146645775/a17046e2-78e8-4976-882a-5f9a70d4df0b)
 
 
  
