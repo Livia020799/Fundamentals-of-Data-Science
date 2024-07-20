@@ -17,7 +17,7 @@ You can find more details about the project, including how we divided the work, 
 
 ### **Exam Score and Project Usage**
 
-**This project (plus the assignments) received a perfect score of 30 cum laude out of 30 on the final exam.** Feel free to use it as a reference if you are planning to take the exam in the upcoming years.<br> 
+**This project (plus the assignments and the final exam) received a perfect score of 30 cum laude out of 30 on the final exam.** Feel free to use it as a reference if you are planning to take the exam in the upcoming years.<br> 
 Please do not hesitate to contact me if you need further explanations or encounter any issues with the materials.
 
 
