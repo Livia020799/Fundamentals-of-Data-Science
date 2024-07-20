@@ -11,7 +11,7 @@ This repository contains the details of the final project component of the cours
 
 ### **Project Overview**
 For our final project, we were tasked with modeling a prediction problem of our choice using any methods we learned in class. My group chose to focus on predicting stroke risk, aiming to determine whether an individual is likely to have a stroke based on clinical data from patients. We sourced the dataset from Kaggle and decided to use `Python` for our analysis.<br>
-You can find more details about the project, including how we divided the work, in the PDF uploaded to this GitHub repository. The *`.ipybn`* file contains the project's code.
+You can find more details about the project, including how we divided the work, in the PDF uploaded to this GitHub repository. The *`.ipynb`* file contains the project's code.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
